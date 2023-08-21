@@ -1,4 +1,4 @@
-[![MasterHead](https://www.n-coe.in/storage/app/media/CSRN-National-CoE.png)
+[![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png.webp)
 <h1 align="center">Hi 👋, I'm Nurlan Isazade</h1>
 <h3 align="center">A Passionate Security Researcher</h3>
 
