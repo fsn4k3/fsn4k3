@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nurlan Isazade</h1>
 <h3 align="center">A Passionate Security Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fsn4k3&label=Profile%20views&color=0e75b6&style=flat" alt="fsn4k3" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
