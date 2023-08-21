@@ -1,6 +1,6 @@
 ![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png.webp)
 <h1 align="center">Hi 👋, I'm Nurlan Isazade</h1>
-<h3 align="center">A Passionate Security Researcher</h3>
+<h3 align="center">A Passionate Cyber Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fsn4k3&label=Profile%20views&color=0e75b6&style=flat" alt="fsn4k3" /> </p>
 
