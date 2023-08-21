@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.n-coe.in%2Fcsrn&psig=AOvVaw0hd0IhdsTCCmrqHItTjll-&ust=1692685994976000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCSoe2Q7YADFQAAAAAdAAAAABAG](https://www.n-coe.in/storage/app/media/CSRN-National-CoE.png))
+[![MasterHead](https://www.n-coe.in/storage/app/media/CSRN-National-CoE.png)
 <h1 align="center">Hi 👋, I'm Nurlan Isazade</h1>
 <h3 align="center">A Passionate Security Researcher</h3>
 
